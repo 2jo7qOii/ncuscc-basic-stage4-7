@@ -1,0 +1,16 @@
+# 关卡运行时产物 / 含凭据的配置文件，不提交
+job.env
+*.log
+*.pid
+resource.txt
+stopped.log
+heartbeat.log
+
+# 编译产物
+hello
+*.o
+a.out
+
+# 系统杂项
+.DS_Store
+Thumbs.db
